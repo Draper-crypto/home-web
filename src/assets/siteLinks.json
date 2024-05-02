@@ -10,6 +10,11 @@
     "link": "https://blog.johntao.top/"
   },
   {
+    "icon": "Fire",
+    "name": "导航页",
+    "link": "https://nav.johntao.top/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘 (IPv6)",
     "link": "https://icloud.foreseestudio.top"
@@ -23,10 +28,5 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.orionai.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "测试更新博客",
-    "link": "https://test.johntao.top/"
   }
 ]
