@@ -5,14 +5,14 @@
     "link": "https://www.johntao.top/"
   },
   {
-    "icon": "Blog",
-    "name": "John's Blog",
-    "link": "https://blog.johntao.top/"
-  },
-  {
     "icon": "Fire",
     "name": "导航页",
     "link": "https://nav.johntao.top/"
+  },
+  {
+    "icon": "Blog",
+    "name": "John's Blog",
+    "link": "https://blog.johntao.top/"
   },
   {
     "icon": "Cloud",
